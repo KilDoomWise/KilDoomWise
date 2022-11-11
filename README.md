@@ -2,7 +2,8 @@
 <br><br><br><br><br><br>
 <h3 align="center">Btw I have over 50 private repos that aren't displayed here. So lang list is highly inaccurate.</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+    <h1>Coder in:</h1><br>
+  <a href="https://hinja.ru">
     <img src="https://skillicons.dev/icons?i=html,css,php,js" />
   </a>
 </p>
