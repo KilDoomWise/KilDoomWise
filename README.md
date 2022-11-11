@@ -7,3 +7,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,js" />
   </a>
 </p>
+<p align="center">
+    <h1>Skills:</h1><br>
+  <a href="https://hinja.ru">
+    <img src="https://skillicons.dev/icons?i=unity,ps,blender" />
+  </a>
+</p>
