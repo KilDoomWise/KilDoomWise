@@ -9,7 +9,9 @@ kildoom@github.io $  Возраст: 🫤
 -----------------------------------------------------------
 ```
 
-Скиллы: [![My Skills](https://skillicons.dev/icons?i=figma, ps, )](https://skillicons.dev)
+Скиллы: 
+
+[![My Skills](https://skillicons.dev/icons?i=figma, ps, )](https://skillicons.dev)
 
 
 
