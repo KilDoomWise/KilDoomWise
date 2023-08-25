@@ -5,5 +5,12 @@
 kildoom@github.io $  Разработчик: CSS, HTML (WEB), PHP, C++
 kildoom@github.io $  Живу: 🇷🇺
 kildoom@github.io $  Возраст: 🫤
+
+-----------------------------------------------------------
 ```
+
+Скиллы: [![My Skills](https://skillicons.dev/icons?i=figma, ps, )](https://skillicons.dev)
+
+
+
 
