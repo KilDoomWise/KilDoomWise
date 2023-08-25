@@ -21,7 +21,7 @@ kildoom@github.io $  Возраст: 🫤
 
 [![My Skills](https://skillicons.dev/icons?i=go,cpp)](https://skillicons.dev)
 
-```-----------------------------------------------------------```
+
 
 <h1>Вот моя статистика</h1><br>
 
