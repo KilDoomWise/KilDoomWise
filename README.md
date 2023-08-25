@@ -23,10 +23,10 @@ kildoom@github.io $  Возраст: 🫤
 
 ```-----------------------------------------------------------```
 
-<h1>Вот моя статистика</h1>
+<h1>Вот моя статистика</h1><br>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=KilDoomWise&count_private=true&show_icons=true&border_radius=12&title_color=0d6efd&bg_color=212125&text_color=cacad0" align="left" height="165" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KilDoomWise&layout=compact&border_radius=12&title_color=0d6efd&bg_color=212125&text_color=cacad0" align="left" height="165" /></p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <h1>А так же мой Discord</h1><br>
 
