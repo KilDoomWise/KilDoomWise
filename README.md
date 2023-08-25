@@ -1,9 +1,17 @@
 <center><h1 align="center">Привет! Я KilDoom!</h1></center>
 
+```css
+
+.test{
+    color: #7CFC00;
+}
+
 ```
-+ kildoom@github.io $ # Разработчик: CSS, HTML (WEB), PHP, C++
-+ kildoom@github.io $ # Живу: 🇷🇺
-+ kildoom@github.io $ # Возраст: 🫤
+
+```
+<span class="test">kildoom@github.io $ # Разработчик: CSS, HTML (WEB), PHP, C++</span>
+kildoom@github.io $ # Живу: 🇷🇺
+kildoom@github.io $ # Возраст: 🫤
 ```
 
 <p align="center"><br>
