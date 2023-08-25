@@ -1,12 +1,11 @@
 <center><h1 align="center">Привет! Я KilDoom!</h1></center>
 
-```css
-
+<style>
 .test{
     color: #7CFC00;
 }
-
-```
+    
+</style>
 
 ```
 <span class="test">kildoom@github.io $ # Разработчик: CSS, HTML (WEB), PHP, C++</span>
