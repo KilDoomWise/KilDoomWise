@@ -13,6 +13,14 @@ kildoom@github.io $  Возраст: 🫤
 
 [![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
 
+<h1>Языки: </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+
+<h1>Изучаю: </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=go,cpp)](https://skillicons.dev)
+
 
 
 
