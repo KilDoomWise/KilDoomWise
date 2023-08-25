@@ -11,7 +11,7 @@ kildoom@github.io $  Возраст: 🫤
 
 <h1>Скиллы: </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
 
 
 
