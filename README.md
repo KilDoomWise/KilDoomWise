@@ -15,7 +15,7 @@ kildoom@github.io $  Возраст: 🫤
 
 <h1>Языки: </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,kotlin,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,java,javascript)](https://skillicons.dev)
 
 <h1>Изучаю: </h1>
 
