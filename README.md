@@ -6,7 +6,7 @@
 #
 # kildoom@github.io $  Разработчик: GoLang, Python
 # kildoom@github.io $  Живу: 🇷🇺
-# kildoom@github.io $  Сайт: ```https://kildoom.space```
+# kildoom@github.io $  Сайт: https://kildoom.space
 #
 -----------------------------------------------------------
 ```
