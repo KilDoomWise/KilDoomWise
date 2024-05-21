@@ -6,7 +6,7 @@
   <summary><h2><b>💫 Stack</b></h2></summary>
   <p>
   <h3>Coding:</h3>
-  <img src="https://skillicons.dev/icons?i=py,javascript,go,java&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,javascript,rust,kotlin&perline=7" />
   <h3>Frameworks:</h3>
   <img src="https://skillicons.dev/icons?i=nextjs,react,astro&perline=7" />
   <h3>Tools:</h3>
