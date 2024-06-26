@@ -19,13 +19,10 @@
   <p>
     <ul>
       <li>
-        HashiCard
+        MacOS Web
       </li>
       <li>
-        AstroNet
-      </li>
-      <li>
-        GDWebConstructor
+        Hashicard OpenComputers
       </li>
       </ul>
     <br/>
